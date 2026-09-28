@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "freddit", "freddit\freddit.csproj", "{2E2896AD-C1D0-4F39-9F30-9E3F764E8AC3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{960FC7D1-A098-45F5-8A9E-09CBAFC18ECF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{2E2896AD-C1D0-4F39-9F30-9E3F764E8AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E2896AD-C1D0-4F39-9F30-9E3F764E8AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E2896AD-C1D0-4F39-9F30-9E3F764E8AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{960FC7D1-A098-45F5-8A9E-09CBAFC18ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960FC7D1-A098-45F5-8A9E-09CBAFC18ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{960FC7D1-A098-45F5-8A9E-09CBAFC18ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{960FC7D1-A098-45F5-8A9E-09CBAFC18ECF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
